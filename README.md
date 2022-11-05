@@ -1,4 +1,3 @@
-<img style="width:100vw;height:45vh;" src="https://i.pinimg.com/originals/4e/56/d4/4e56d4d05fb06907fbff339f85436575.gif">
 <h1 align="center">Hi 👋, I'm Aswin</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
