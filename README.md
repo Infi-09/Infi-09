@@ -22,7 +22,7 @@
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/aswin s">
+	<a href="https://linkedin.com/in/aswin-s-76211721a">
 		<img alt="Aswin - LinkedIn" width="42px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 	</a>
 	<a href="https://twitter.com/infinity0099">
