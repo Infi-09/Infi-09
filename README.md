@@ -19,7 +19,7 @@
 <br>
 <hr>
 <p align="center">
-<i>Let's connect and chat! Open to anything under the sun.</i><br>
+<i>Let's connect and chat! Open to anything under the sun..</i><br>
 <p align="center">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://linkedin.com/in/aswin-s-76211721a">
