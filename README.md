@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI, ML, DL, Cloud Computing, Frontend**
 
-- 💬 Ask me about **ML, DL, Frontend**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **aswin.selvakumaran@gmail.com**
 
