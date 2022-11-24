@@ -27,6 +27,7 @@
 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <br>
+<hr>
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun..</i><br>
 <p align="center">
