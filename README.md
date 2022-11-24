@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
 <img src="https://github.com/Infi-09/Infi-09/blob/main/intro.gif" width="30%" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infi-09&label=Profile%20views&color=0e75b6&style=flat" alt="infi-09" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infi-09&label=Profile%20views&color=0e75b6&style=flat" alt="infi-09" /> </p>
 
 - 🌱 I’m currently learning **AI, ML, DL, Cloud Computing, Frontend**
 
